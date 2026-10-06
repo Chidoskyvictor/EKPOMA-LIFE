@@ -1,0 +1,74 @@
+[
+  {
+    "id": "aau_campus",
+    "name": "AAU Campus",
+    "type": "campus",
+    "description": "Ambrose Alli University main grounds. Lectures, students, and campus hustle.",
+    "coordinates": [0, 0, 0],
+    "available_actions": ["move", "study", "socialize"]
+  },
+  {
+    "id": "college_of_medicine",
+    "name": "College of Medicine",
+    "type": "campus",
+    "description": "College of Medicine — long days, heavier books, and campus stories.",
+    "coordinates": [18, 0, -8],
+    "available_actions": ["move", "study"]
+  },
+  {
+    "id": "mbc",
+    "name": "MBC",
+    "type": "campus",
+    "description": "A familiar AAU landmark students pass through between lectures.",
+    "coordinates": [-14, 0, -6],
+    "available_actions": ["move", "socialize"]
+  },
+  {
+    "id": "igbinedion_hostel",
+    "name": "Igbinedion Hostel",
+    "type": "hostel",
+    "description": "Off-campus living, generator noise, and hostel politics.",
+    "coordinates": [-22, 0, 16],
+    "available_actions": ["move", "rest", "socialize"]
+  },
+  {
+    "id": "maryvale_hostel",
+    "name": "Maryvale Hostel",
+    "type": "hostel",
+    "description": "Maryvale — another Ekpoma student address with its own rhythm.",
+    "coordinates": [20, 0, 18],
+    "available_actions": ["move", "rest"]
+  },
+  {
+    "id": "innovation_hub",
+    "name": "Innovation Hub",
+    "type": "community",
+    "description": "The team's in-game home. Leave reviews and suggest features.",
+    "coordinates": [8, 0, 10],
+    "available_actions": ["move", "feedback"]
+  },
+  {
+    "id": "roadside_bukka",
+    "name": "Roadside Bukka",
+    "type": "food",
+    "description": "Rice, stew, and gossip. Food restores energy and costs cash.",
+    "coordinates": [-8, 0, 12],
+    "available_actions": ["move", "eat"]
+  },
+  {
+    "id": "keke_park",
+    "name": "Keke Park",
+    "type": "transport",
+    "description": "Keke and bike park. Pay for transport between far locations.",
+    "coordinates": [0, 0, 22],
+    "available_actions": ["move"]
+  },
+  {
+    "id": "campus_shop",
+    "name": "Campus Shop",
+    "type": "shop",
+    "description": "Phones, snacks, and the small things students always need.",
+    "coordinates": [12, 0, 4],
+    "available_actions": ["move", "shop"]
+  }
+]

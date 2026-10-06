@@ -1,0 +1,18 @@
+[
+  {
+    "id": "phone",
+    "name": "Phone",
+    "description": "Compulsory beginner purchase. Notifications, messages, and status.",
+    "price": 2500,
+    "category": "equipment",
+    "effects": { "unlocks": "phone_panel" }
+  },
+  {
+    "id": "jollof_plate",
+    "name": "Plate of Jollof",
+    "description": "Restores a bit of energy.",
+    "price": 800,
+    "category": "food",
+    "effects": { "energy": 15 }
+  }
+]

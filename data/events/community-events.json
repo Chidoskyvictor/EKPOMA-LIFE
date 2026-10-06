@@ -1,0 +1,13 @@
+[
+  {
+    "id": "aau_orientation_week",
+    "title": "Campus hangout — Faculty of Arts",
+    "description": "Student association hangout after lectures. Fictional listing for the initial build.",
+    "location": "AAU Campus",
+    "starts_at": "2026-10-10T16:00:00+01:00",
+    "ends_at": "2026-10-10T20:00:00+01:00",
+    "organizer": "Ekpoma Life Team",
+    "image_url": null,
+    "status": "published"
+  }
+]

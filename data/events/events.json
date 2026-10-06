@@ -1,0 +1,14 @@
+[
+  {
+    "id": "keke_fare_palaver",
+    "title": "Keke fare palaver",
+    "description": "The driver says the price just changed because of fuel.",
+    "location_id": "keke_park",
+    "period": "afternoon",
+    "requirements": {},
+    "choices": [
+      { "label": "Pay the extra", "effects": { "cash": -200, "reputation": 1 } },
+      { "label": "Walk instead", "effects": { "energy": -12, "reputation": 0 } }
+    ]
+  }
+]

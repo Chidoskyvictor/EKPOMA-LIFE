@@ -1,0 +1,23 @@
+[
+  {
+    "id": "npc_vendor_amina",
+    "name": "Amina",
+    "type": "food_vendor",
+    "location_id": "roadside_bukka",
+    "personality": "sharp and funny"
+  },
+  {
+    "id": "npc_student_chuks",
+    "name": "Chuks",
+    "type": "student",
+    "location_id": "aau_campus",
+    "personality": "always broke, always scheming"
+  },
+  {
+    "id": "npc_okada_ife",
+    "name": "Ife",
+    "type": "transport_operator",
+    "location_id": "keke_park",
+    "personality": "fast talker"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "pos_agent",
+    "name": "POS Agent",
+    "legal": true,
+    "location_id": "campus_shop",
+    "energy_cost": 20,
+    "time_cost": 1,
+    "cash_min": 400,
+    "cash_max": 900
+  },
+  {
+    "id": "tutorial_errand",
+    "name": "Campus errand",
+    "legal": true,
+    "location_id": "aau_campus",
+    "energy_cost": 10,
+    "time_cost": 1,
+    "cash_min": 500,
+    "cash_max": 500
+  }
+]
